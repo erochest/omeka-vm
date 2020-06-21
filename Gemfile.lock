@@ -9,7 +9,7 @@ GEM
     ffi (1.9.0)
     hiera (1.2.1)
       json_pure
-    i18n (0.6.4)
+    i18n (0.6.11)
     json (1.7.7)
     json_pure (1.8.0)
     log4r (1.1.10)
